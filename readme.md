@@ -24,4 +24,4 @@ The goal is to build a regression model that accurately estimates house prices f
 - scikit-learn
 - matplotlib / seaborn
 
-Install dependencies via:
+
